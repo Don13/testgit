@@ -69,7 +69,7 @@ for (var i = 0; i < count; i++) {
    
 
 
-//存储落子信息
+//初始化数组
 for (var i = 0; i <15; i++) {
 	chessBoard[i]=[];
 	for (var j = 0; j < 15; j++){ 
